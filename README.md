@@ -11,11 +11,11 @@ This repository contains the iOS Lab project following the **Microsoft GEARS 202
 ## Requirements
 - Xcode 11+
 - iOS 13+
-The following additional prerequisites are needed:
-•	An Azure account with an active subscription. https://azure.microsoft.com/free/?WT.mc_id=A261C142F
-•	A Mac running the latest version of Xcode. https://go.microsoft.com/fwLink/p/?LinkID=266532
-•	A deployed Communication Services resource. https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource
-•	A User Access Token for your Azure Communication Service. https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/access-tokens
+- The following additional prerequisites are needed:
+- •	An Azure account with an active subscription. https://azure.microsoft.com/free/?WT.mc_id=A261C142F
+- •	A Mac running the latest version of Xcode. https://go.microsoft.com/fwLink/p/?LinkID=266532
+- •	A deployed Communication Services resource. https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource
+- •	A User Access Token for your Azure Communication Service. https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/access-tokens
 
 
 ### Configuration
