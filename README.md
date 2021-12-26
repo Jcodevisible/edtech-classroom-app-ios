@@ -4,7 +4,7 @@
 
 ## 📚 Tutorial
 
-This repository contains the completed Xcode project following the [How to Build a Virtual Classroom iOS App with Video and Chat](https://getstream.io/blog/edtech-virtual-classroom-ios/) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
+This repository contains the completed Xcode project following the [GEARS 2022 - Azure Communications Mobile Support]demo. You should read the Lab Guide before trying to run this project as it contains it may contain useful information not presented in this README.
 
 ## ⚙️ Setup
 
