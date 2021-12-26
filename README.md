@@ -33,7 +33,7 @@ $ pod install --repo-update
 
 ### Running
 
-Run this sample app as any normal app, but only on real devices. If you run in a simulator, the call will work, but you won't be able to watch or stream video due to limitations of the simulator, though voice should work.
+Run this sample app as any normal app, but for full functionality you should run it on real devices. **If you run in a simulator, the call will work, but you won't be able to watch or stream video due to limitations of the simulator, though voice should work.**
 
 ## 🔗 Helpful Links
 
