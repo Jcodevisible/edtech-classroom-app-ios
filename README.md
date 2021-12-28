@@ -4,7 +4,7 @@
 
 ## 📚 Tutorial
 
-This repository contains the iOS Lab project following the **Microsoft GEARS 2022 - Azure Communications Mobile Support** demo session. You should read the Lab Guide before trying to run this project as it contains it may contain useful information not presented in this README.
+This repository contains the iOS app project following the **Microsoft GEARS 2022 - Azure Communications Mobile Support** demo session. You should review the presentation before trying to run this project as it contains it may contain useful information not presented in this README.
 
 ## ⚙️ Setup
 
